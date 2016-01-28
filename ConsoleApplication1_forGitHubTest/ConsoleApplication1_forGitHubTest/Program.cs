@@ -9,6 +9,7 @@ namespace ConsoleApplication1_forGitHubTest
     {
         static void Main(string[] args)
         {
+            this is AccessViolationException testc!
         }
     }
 }
