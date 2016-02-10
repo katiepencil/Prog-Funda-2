@@ -1,0 +1,14 @@
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication14Jan2016\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication14Jan2016\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication14Jan2016\ConsoleApplication4\obj\x86\Debug\ProgFunda14jan16.csprojResolveAssemblyReference.cache
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication14Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication14Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApp_addNumbers_14Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApp_addNumbers_14Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication414Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\thokata\Documents\Visual Studio 2010\Projects\ConsoleApplication414Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\thokata\Desktop\Prog Funda 2\ConsoleApplication14Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\thokata\Desktop\Prog Funda 2\ConsoleApplication14Jan2016\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\thokata\Desktop\Prog Funda 2\ConsoleApplication14Jan2016\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\thokata\Desktop\Prog Funda 2\ConsoleApplication14Jan2016\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\thokata\Desktop\Prog Funda 2\ConsoleApplication14Jan2016\ConsoleApplication4\obj\x86\Debug\ProgFunda14jan16.csprojResolveAssemblyReference.cache
